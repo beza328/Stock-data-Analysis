@@ -71,21 +71,10 @@ The project requires two datasets:
 
 5. Run each cell sequentially to load the data, perform sentiment analysis, and visualize the results.
 
-▎Example Usage
 
-After loading your datasets, I perform sentiment analysis on the headlines as follows:
-
-from textblob import TextBlob
-
-
-    
-# Apply sentiment analysis
-news_data['Sentiment'] = news_data['Headline'].apply(get_sentiment)
-
-
-
-
-
+6.After loading your datasets, I perform sentiment analysis on the headlines as follows And Also Technical Analysis
+7.perform Correlation Analysis
+  
 
 
 ▎Acknowledgments
